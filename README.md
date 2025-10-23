@@ -117,17 +117,27 @@ This repository is intended as a developer demo / prototype — it is not produc
 
 8. Interact:
    - Use the chat interface to try sample commands:
-    - USER: I want to file a complaint
-    - USER: My bag is damaged
-    - USER: My bag is missing
-    - USER: Any discounts available?
-    - USER: How much is a ticket?
-    - USER: Flight schedule information
-    - USER: Travel insurance options
-    - USER: Can I fly if I'm sick?
-    - USER: What items are prohibited?
-    - USER: Can I bring my guitar?
-    - USER: Check my booking BK001
+USER: I want to file a complaint  
+USER: My bag is damaged  
+USER: My bag is missing  
+USER: Any discounts available?  
+USER: How much is a ticket?  
+USER: Flight schedule information  
+USER: Travel insurance options  
+USER: Can I fly if I'm sick?  
+USER: What items are prohibited?  
+USER: Can I bring my guitar?  
+USER: Book a flight from [source] to [destination] on [date]  
+USER: Cancel my booking [booking_id]  
+USER: Change my flight date for booking [booking_id] to [new_date]  
+USER: Check my booking [booking_id]  
+USER: Show available flights from [source] to [destination]  
+USER: Check flight status [flight_number]  
+USER: Add meal preference to my booking [booking_id]  
+USER: Speak to a customer service agent  
+USER: Help me with my booking  
+USER: Report an issue with my flight  
+USER: Provide airline contact details
 
 
 ---
