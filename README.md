@@ -117,6 +117,7 @@ This repository is intended as a developer demo / prototype — it is not produc
 
 8. Interact:
    - Use the chat interface to try sample commands:
+     
 USER: Book a flight from [source] to [destination] on [date]  
 USER: Cancel my booking [booking_id]  
 USER: Change my flight date for booking [booking_id] to [new_date]  
